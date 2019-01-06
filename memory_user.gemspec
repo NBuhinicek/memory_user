@@ -6,8 +6,8 @@ require "memory_user/version"
 Gem::Specification.new do |spec|
   spec.name          = "memory_user"
   spec.version       = MemoryUser::VERSION
-  spec.authors       = ["Nikola Buhinicek"]
-  spec.email         = ["nikola.buhinicek@infinum.hr"]
+  spec.authors       = "Nikola Buhinicek"
+  spec.email         = "nikola.buhinicek@infinum.hr"
 
   spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
